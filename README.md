@@ -6,7 +6,7 @@
 - KayıtTarihi nesne oluşturulunca otomatik olarak o an olarak atanıyor.
 - Parametreli Constructor ile Kitap adı, Yazar Adı, Sayfa Sayısı, Yayınevi bilgilerini alıp bu değerleri nesne üretim aşamasında atayan bir metot.
 - KayıtTarihi nesne oluşturulunca otomatik olarak o an olarak atanıyor.
-<br>
+---
 ## I created a book registration application for Patika Library.
 ### We want to register books with the following information: Title, Author's First Name, Author's Last Name, Page Count, Publisher, and Registration Date.
 - I created the book Adı Aylin by Ayşe Kulin, with 398 pages, published by Remzi Kitabevi, using the Default Constructor.
