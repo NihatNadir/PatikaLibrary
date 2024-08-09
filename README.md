@@ -11,7 +11,7 @@ Kitap bilgilerinde Ad, Yazar Adı, Yazar Soyadı, Sayfa Sayısı, Yayınevi, Kay
 # I created a book registration application for Patika Library.
 <br>
 We want to register books with the following information: Title, Author's First Name, Author's Last Name, Page Count, Publisher, and Registration Date.
-- I created the book Adı Aylin by Ayşe Kulin, with 398 pages, published by Remzi Kitabevi, using the Default Constructor.
-- The RegistrationDate is automatically set to the current time when the object is created.
+ - I created the book Adı Aylin by Ayşe Kulin, with 398 pages, published by Remzi Kitabevi, using the Default Constructor.
+ - The RegistrationDate is automatically set to the current time when the object is created.
 - The Parameterized Constructor takes the Book Title, Author's First Name, Page Count, and Publisher information, and assigns these values during the creation of the object.
 - The RegistrationDate is automatically set to the current time when the object is created.
